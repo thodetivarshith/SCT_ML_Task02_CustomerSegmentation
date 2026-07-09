@@ -1,6 +1,30 @@
+<div align="center">
+
 # 🛍️ Customer Segmentation using K-Means Clustering
 
-> **SkillCraft Technology – Machine Learning Internship Task 02**
+### SkillCraft Technology Machine Learning Internship — Task 02
+
+Machine Learning Project for Customer Segmentation using **K-Means Clustering**, **PCA**, **EDA**, and **Business Insights**
+
+</div>
+
+---
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-purple?logo=plotly)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
+</p>
 
 A machine learning project that segments mall customers into meaningful groups using the **K-Means Clustering** algorithm.
 
