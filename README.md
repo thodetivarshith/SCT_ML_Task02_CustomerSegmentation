@@ -26,6 +26,11 @@ Machine Learning Project for Customer Segmentation using **K-Means Clustering**,
 
 </p>
 
+
+## 📊 Customer Segmentation
+
+![Customer Clusters](images/customer_clusters.png)
+
 A machine learning project that segments mall customers into meaningful groups using the **K-Means Clustering** algorithm.
 
 ---
