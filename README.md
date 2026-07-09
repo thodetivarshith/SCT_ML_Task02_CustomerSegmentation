@@ -189,6 +189,7 @@ J --> K
 
 The optimal number of clusters was selected using the **Elbow Method** and **Silhouette Score**. Although the silhouette score increased for larger values of K, **K = 5** was chosen because it provides the best balance between clustering performance and business interpretability.
 
+
 ## 📈 Key Results
 
 - Successfully segmented customers into **5 meaningful clusters**.
@@ -196,6 +197,20 @@ The optimal number of clusters was selected using the **Elbow Method** and **Sil
 - Determined the optimal number of clusters using the **Elbow Method** and **Silhouette Score**.
 - Evaluated clustering quality using three performance metrics.
 - Generated customer personas and business recommendations for each cluster.
+
+
+## 📈 Results Summary
+
+| Item | Result |
+|------|--------|
+| Dataset | Mall Customers |
+| Samples | 200 |
+| Features | 5 |
+| Algorithm | K-Means |
+| Optimal Clusters | 5 |
+| Scaling | StandardScaler |
+| Visualization | PCA |
+| Evaluation | Silhouette + Davies-Bouldin + Calinski-Harabasz |
 
 ## 📷 Project Visualizations
 
@@ -342,6 +357,55 @@ https://www.linkedin.com/in/thodeti-varshith/
 ⭐ If you found this project helpful, consider giving it a **Star** on GitHub.
 
 This project was developed for educational purposes as part of the **SkillCraft Technology Machine Learning Internship**.
+
+---
+
+## ✨ Project Highlights
+
+- ✔️ Data Cleaning
+- ✔️ Exploratory Data Analysis
+- ✔️ Feature Engineering
+- ✔️ StandardScaler
+- ✔️ Elbow Method
+- ✔️ Silhouette Analysis
+- ✔️ K-Means Clustering
+- ✔️ PCA Visualization
+- ✔️ Interactive Plotly Charts
+- ✔️ Business Insights
+- ✔️ Customer Personas
+
+## 📚 Learning Outcomes
+
+During this project, I gained practical experience in:
+
+- Customer Segmentation
+- Unsupervised Machine Learning
+- Feature Scaling
+- Cluster Evaluation
+- PCA
+- Business Analytics
+- Data Visualization
+- Git & GitHub
+
+## 📌 Repository Information
+
+| Category | Details |
+|----------|---------|
+| Internship | SkillCraft Technology |
+| Task | Task 02 |
+| Domain | Machine Learning |
+| Project Type | Unsupervised Learning |
+| Status | Completed |
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting this repository!
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+</div>
 
 ---
 
