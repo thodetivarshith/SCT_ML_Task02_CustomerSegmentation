@@ -202,3 +202,115 @@ The clustering analysis identified multiple customer groups with distinct purcha
 - 📈 Use customer segmentation to improve marketing efficiency and increase customer retention.
 
 - 
+---
+
+# 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/thodetivarshith/SCT_ML_Task02_CustomerSegmentation.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd SCT_ML_Task02_CustomerSegmentation
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```
+Customer_Segmentation.ipynb
+```
+
+---
+
+
+
+# 📁 Project Structure
+
+```
+SCT_ML_Task02_CustomerSegmentation
+│
+├── data/
+│   └── Mall_Customers.csv
+│
+├── images/
+│   ├── age_distribution.png
+│   ├── annual_income_distribution.png
+│   ├── spending_score_distribution.png
+│   ├── gender_distribution.png
+│   ├── boxplot_age.png
+│   ├── boxplot_income.png
+│   ├── boxplot_spending.png
+│   ├── correlation_heatmap.png
+│   ├── pairplot.png
+│   ├── elbow_method.png
+│   ├── silhouette_score.png
+│   ├── customer_clusters.png
+│   ├── pca_clusters.png
+│
+├── Customer_Segmentation.ipynb
+├── clustered_customers.csv
+├── cluster_profile.csv
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+
+
+# 🚀 Future Improvements
+
+- Implement DBSCAN clustering.
+- Compare with Agglomerative Clustering.# 👨‍💻 Author
+
+**Varshith Thodeti**
+
+🎓 B.Tech – Computer Science and Engineering (AI & ML)
+
+🏫 Noida International University
+
+💼 Machine Learning Intern at SkillCraft Technology
+
+🔗 GitHub:
+https://github.com/thodetivarshith
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/thodeti-varshith/
+- Build an interactive Streamlit dashboard.
+- Deploy the project using Streamlit Cloud.
+- Integrate customer recommendation techniques.
+- Support real-time customer segmentation.
+- Expand the model using additional customer behavior features.
+
+---
+
+
+---
+
+⭐ If you found this project helpful, consider giving it a **Star** on GitHub.
+
+This project was developed for educational purposes as part of the **SkillCraft Technology Machine Learning Internship**.
+
+---
+
+
+
+
