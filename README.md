@@ -138,37 +138,42 @@ The optimal number of clusters was determined using the **Elbow Method** and **S
 
 ## 🔄 Project Workflow
 
-```text
-                 Mall Customers Dataset
-                           │
-                           ▼
-                 Data Loading & Inspection
-                           │
-                           ▼
-                Data Quality Assessment
-                           │
-                           ▼
-              Exploratory Data Analysis (EDA)
-                           │
-                           ▼
-                Feature Engineering & Scaling
-                           │
-                           ▼
-          Elbow Method & Silhouette Analysis
-                           │
-                           ▼
-                K-Means Clustering Model
-                           │
-                           ▼
-                  Model Evaluation
-                           │
-                           ▼
-             Customer Segmentation Results
-                           │
-                           ▼
-          Business Insights & Recommendations
-```
+```mermaid
+flowchart TD
 
+A[Load Dataset]
+
+B[Data Cleaning]
+
+C[Exploratory Data Analysis]
+
+D[Feature Engineering]
+
+E[Feature Scaling]
+
+F[Elbow Method]
+
+G[Silhouette Analysis]
+
+H[K-Means Clustering]
+
+I[Cluster Evaluation]
+
+J[PCA Visualization]
+
+K[Business Insights]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+H --> I
+I --> J
+J --> K
+```
 ---
 
 
